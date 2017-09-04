@@ -1,0 +1,76 @@
+﻿生成启动时间为 2017/2/18 20:21:00。
+     1>项目“C:\Users\admin1\Desktop\1\图（邻接矩阵）\图（邻接矩阵）\图（邻接矩阵）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\图（邻接矩阵）.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "图（邻接矩阵）.cpp"
+         图（邻接矩阵）.cpp
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\sa.cpp(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\sa.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\sa.cpp(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\sa.cpp(94): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\dta.cpp(22): warning C4101: “q”: 未引用的局部变量
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\dta.cpp(22): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\dta.cpp(22): warning C4101: “l”: 未引用的局部变量
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\onebyonechoicehost.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\onebyonechoicehost.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\onebyonechoicehost.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\onebyonechoicehost.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\onebyonechoicehost.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(144): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(193): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\图（邻接矩阵）.cpp(102): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\图（邻接矩阵）.cpp(116): warning C4305: “参数”: 从“double”到“float”截断
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\matrixgraph.h(229): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\matrixgraph.h(228): 编译类 模板 成员函数“void MatrixGraph<V,A>::ChangeGen(int,int)”时
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\图（邻接矩阵）.cpp(83): 参见对正在编译的函数 模板 实例化“void MatrixGraph<V,A>::ChangeGen(int,int)”的引用
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\rta.cpp(3): 参见对正在编译的类 模板 实例化“MatrixGraph<V,A>”的引用
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\matrixgraph.h(295): warning C4101: “j”: 未引用的局部变量
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\matrixgraph.h(294): 编译类 模板 成员函数“bool MatrixGraph<V,A>::DeleteArcsOfVex(int)”时
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(55): 参见对正在编译的函数 模板 实例化“bool MatrixGraph<V,A>::DeleteArcsOfVex(int)”的引用
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\matrixgraph.h(446): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\matrixgraph.h(443): 编译类 模板 成员函数“void MatrixGraph<V,A>::RandomHost(void)”时
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\rta.cpp(5): 参见对正在编译的函数 模板 实例化“void MatrixGraph<V,A>::RandomHost(void)”的引用
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\shortestpath.h(183): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\shortestpath.h(171): 编译类 模板 成员函数“void ShortestPath<V,A>::CoutNoedToNodeC(const MatrixGraph<V,A> &)”时
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\cta.cpp(13): 参见对正在编译的函数 模板 实例化“void ShortestPath<V,A>::CoutNoedToNodeC(const MatrixGraph<V,A> &)”的引用
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\sa.cpp(7): 参见对正在编译的类 模板 实例化“ShortestPath<V,A>”的引用
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\shortestpath.h(277): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\shortestpath.h(246): 编译类 模板 成员函数“float ShortestPath<V,A>::HostToHostAverangeDistance(MatrixGraph<V,A> &,int,int)”时
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\sa.cpp(94): 参见对正在编译的函数 模板 实例化“float ShortestPath<V,A>::HostToHostAverangeDistance(MatrixGraph<V,A> &,int,int)”的引用
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\shortestpath.h(306): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\shortestpath.h(341): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\shortestpath.h(328): 编译类 模板 成员函数“void ShortestPath<V,A>::CoutHostToHostC(MatrixGraph<V,A> &)”时
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\sa.cpp(16): 参见对正在编译的函数 模板 实例化“void ShortestPath<V,A>::CoutHostToHostC(MatrixGraph<V,A> &)”的引用
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(56): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(52) : 忽略“i”的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(35) : 使用“i”的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(34): 编译类 模板 成员函数“void Betweenness<V,A>::CountB(MatrixGraph<V,A> &)”时
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\bcta.cpp(7): 参见对正在编译的函数 模板 实例化“void Betweenness<V,A>::CountB(MatrixGraph<V,A> &)”的引用
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\bcta.cpp(6): 参见对正在编译的类 模板 实例化“Betweenness<V,A>”的引用
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(62): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(58) : 忽略“i”的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(35) : 使用“i”的定义
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(64): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(58) : 忽略“i”的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(35) : 使用“i”的定义
+     1>c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(103): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(96) : 忽略“i”的定义
+                 c:\users\admin1\desktop\1\图（邻接矩阵）\图（邻接矩阵）\betweenness.h(35) : 使用“i”的定义
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin1\Desktop\1\图（邻接矩阵）\Debug\图（邻接矩阵）.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\admin1\Desktop\1\图（邻接矩阵）\Debug\图（邻接矩阵）.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin1\Desktop\1\图（邻接矩阵）\Debug\图（邻接矩阵）.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\图（邻接矩阵）.obj"
+         图（邻接矩阵）.vcxproj -> C:\Users\admin1\Desktop\1\图（邻接矩阵）\Debug\图（邻接矩阵）.exe
+     1>已完成生成项目“C:\Users\admin1\Desktop\1\图（邻接矩阵）\图（邻接矩阵）\图（邻接矩阵）.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.96

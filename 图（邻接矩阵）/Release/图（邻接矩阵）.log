@@ -1,0 +1,80 @@
+﻿生成启动时间为 2017/6/5 11:08:34。
+     1>项目“C:\Users\junwen\Desktop\Intentionattack\图（邻接矩阵）\图（邻接矩阵）\图（邻接矩阵）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\sofaware\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\图（邻接矩阵）.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "图（邻接矩阵）.cpp"
+         图（邻接矩阵）.cpp
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\SA.cpp(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\SA.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\SA.cpp(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\SA.cpp(94): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\DTA.cpp(22): warning C4101: “q”: 未引用的局部变量
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\DTA.cpp(22): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\DTA.cpp(22): warning C4101: “l”: 未引用的局部变量
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\OneByOneChoiceHost.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\OneByOneChoiceHost.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\OneByOneChoiceHost.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\OneByOneChoiceHost.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\OneByOneChoiceHost.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(146): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(167): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(195): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+     1>图（邻接矩阵）.cpp(67): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>图（邻接矩阵）.cpp(104): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>图（邻接矩阵）.cpp(109): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>图（邻接矩阵）.cpp(124): warning C4305: “参数”: 从“double”到“float”截断
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\MatrixGraph.h(229): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\MatrixGraph.h(228): 编译类 模板 成员函数“void MatrixGraph<V,A>::ChangeGen(int,int)”时
+                 图（邻接矩阵）.cpp(85): 参见对正在编译的函数 模板 实例化“void MatrixGraph<V,A>::ChangeGen(int,int)”的引用
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\RTA.cpp(3): 参见对正在编译的类 模板 实例化“MatrixGraph<V,A>”的引用
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\MatrixGraph.h(295): warning C4101: “j”: 未引用的局部变量
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\MatrixGraph.h(294): 编译类 模板 成员函数“bool MatrixGraph<V,A>::DeleteArcsOfVex(int)”时
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\failure.cpp(55): 参见对正在编译的函数 模板 实例化“bool MatrixGraph<V,A>::DeleteArcsOfVex(int)”的引用
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\MatrixGraph.h(446): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\MatrixGraph.h(443): 编译类 模板 成员函数“void MatrixGraph<V,A>::RandomHost(void)”时
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\RTA.cpp(5): 参见对正在编译的函数 模板 实例化“void MatrixGraph<V,A>::RandomHost(void)”的引用
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\ShortestPath.h(185): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\ShortestPath.h(173): 编译类 模板 成员函数“void ShortestPath<V,A>::CoutNoedToNodeC(const MatrixGraph<V,A> &)”时
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\CTA.cpp(13): 参见对正在编译的函数 模板 实例化“void ShortestPath<V,A>::CoutNoedToNodeC(const MatrixGraph<V,A> &)”的引用
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\SA.cpp(7): 参见对正在编译的类 模板 实例化“ShortestPath<V,A>”的引用
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\ShortestPath.h(279): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\ShortestPath.h(248): 编译类 模板 成员函数“float ShortestPath<V,A>::HostToHostAverangeDistance(MatrixGraph<V,A> &,int,int)”时
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\SA.cpp(94): 参见对正在编译的函数 模板 实例化“float ShortestPath<V,A>::HostToHostAverangeDistance(MatrixGraph<V,A> &,int,int)”的引用
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\ShortestPath.h(308): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\ShortestPath.h(343): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\ShortestPath.h(330): 编译类 模板 成员函数“void ShortestPath<V,A>::CoutHostToHostC(MatrixGraph<V,A> &)”时
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\SA.cpp(16): 参见对正在编译的函数 模板 实例化“void ShortestPath<V,A>::CoutHostToHostC(MatrixGraph<V,A> &)”的引用
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(56): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(52) : 忽略“i”的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(35) : 使用“i”的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(34): 编译类 模板 成员函数“void Betweenness<V,A>::CountB(MatrixGraph<V,A> &)”时
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\BCTA.cpp(7): 参见对正在编译的函数 模板 实例化“void Betweenness<V,A>::CountB(MatrixGraph<V,A> &)”的引用
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\BCTA.cpp(6): 参见对正在编译的类 模板 实例化“Betweenness<V,A>”的引用
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(62): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(58) : 忽略“i”的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(35) : 使用“i”的定义
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(64): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(58) : 忽略“i”的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(35) : 使用“i”的定义
+     1>c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(103): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(96) : 忽略“i”的定义
+                 c:\users\junwen\desktop\intentionattack\图（邻接矩阵）\图（邻接矩阵）\Betweenness.h(35) : 使用“i”的定义
+       Link:
+         E:\sofaware\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\junwen\Desktop\Intentionattack\图（邻接矩阵）\Release\图（邻接矩阵）.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\junwen\Desktop\Intentionattack\图（邻接矩阵）\Release\图（邻接矩阵）.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\junwen\Desktop\Intentionattack\图（邻接矩阵）\Release\图（邻接矩阵）.lib" /MACHINE:X86 /SAFESEH Release\stdafx.obj
+         "Release\图（邻接矩阵）.obj"
+         正在生成代码
+         已完成代码的生成
+         图（邻接矩阵）.vcxproj -> C:\Users\junwen\Desktop\Intentionattack\图（邻接矩阵）\Release\图（邻接矩阵）.exe
+     1>已完成生成项目“C:\Users\junwen\Desktop\Intentionattack\图（邻接矩阵）\图（邻接矩阵）\图（邻接矩阵）.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.66
